@@ -11,7 +11,7 @@ Three Convolutional Neural Network (CNN) architectures were employed for this ta
 - Custom CNN: A bespoke architecture tailored to the dataset's specific requirements.
 
 ## Results
--ResNet achieved the highest accuracy and emerged as the best-performing model due to its depth and
+- ResNet achieved the highest accuracy and emerged as the best-performing model due to its depth and
  ability to capture complex features in MRI images.
 - AlexNet was the second-best model, demonstrating strong performance but slightly lower accuracy compared to ResNet.
 - The custom CNN also delivered promising results but was outperformed by ResNet and AlexNet.
