@@ -18,5 +18,4 @@ Three Convolutional Neural Network (CNN) architectures were employed for this ta
 
 ## Conclusion
 ResNet's superior performance underscores its effectiveness in extracting detailed features from MRI images, 
-making it an excellent choice for dementia classification tasks. Future work could involve exploring other 
-advanced architectures or augmenting the dataset for improved results.
+making it an excellent choice for dementia classification tasks. 
