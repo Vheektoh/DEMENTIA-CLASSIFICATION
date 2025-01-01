@@ -2,6 +2,12 @@
 This project focuses on the classification of dementia using MRI imaging data. The goal is to develop
 a robust deep learning-based system for identifying and categorizing dementia cases to aid in early 
 diagnosis and treatment planning.
+
+## Dataset
+The Open Access Series of Imaging Studies (OASIS) is a project dedicated to providing freely accessible
+neuroimaging datasets to the scientific community, aiming to advance research in neuroscience and related fields.
+https://www.kaggle.com/datasets/pulavendranselvaraj/oasis-dataset
+
 ## Methodology
 Three Convolutional Neural Network (CNN) architectures were employed for this task:
 
