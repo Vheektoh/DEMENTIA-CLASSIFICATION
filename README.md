@@ -7,6 +7,11 @@ diagnosis and treatment planning.
 The Open Access Series of Imaging Studies (OASIS) is a project dedicated to providing freely accessible
 neuroimaging datasets to the scientific community, aiming to advance research in neuroscience and related fields.
 https://www.kaggle.com/datasets/pulavendranselvaraj/oasis-dataset
+This dataset contains 9488 brain MRI images categorized into four classes based on Alzheimer's progression.
+Patient classification relied on provided metadata and Clinical Dementia Rating (CDR) values, yielding four 
+classes: demented, very mild demented, mild demented, and non-demented. These classes facilitate the examination
+of various stages of Alzheimer's disease progression.
+
 
 ## Methodology
 Three Convolutional Neural Network (CNN) architectures were employed for this task:
